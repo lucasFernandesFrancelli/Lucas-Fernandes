@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Lucas Fernandes</h1>
-<h3 align="center">Backend Developer at e-Kaizen Digital</h3>
+<h3 align="center">Backend Developer</h3>
 
 - 📫 How to reach me **luffbsilva2002@gmail.com**
 
